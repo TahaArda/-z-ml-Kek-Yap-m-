@@ -1,0 +1,28 @@
+body {
+    font-family: monospace;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1 {
+    text-align: center;
+}
+.Malzemeler{
+    display: flex;
+}
+h1 { 
+    color: red;  
+  }
+  .Malzemeler{
+    display: flex;
+  }
+
+  .Malzemeler{
+    padding: 20px;
+    margin: 20px;
+  
+}
+
+.Malzemeler {
+    background-color: aquamarine;
+}

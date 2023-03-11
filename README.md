@@ -1,0 +1,1 @@
+Üzümlü kekin yapım aşamasını ve gereken malzemelerden bahsettim
